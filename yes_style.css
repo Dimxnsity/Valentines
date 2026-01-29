@@ -23,7 +23,7 @@ body {
 }
 
 .gif_container img {
-    width: 51%; 
-    max-width: 250px; 
-    height: 250px; 
+    width: 100%; 
+    max-width: 200px; 
+    height: 200px; 
 }
