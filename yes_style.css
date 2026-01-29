@@ -25,5 +25,5 @@ body {
 .gif_container img {
     width: 50%; 
     max-width: 250px; 
-    height: auto; 
+    height: 250px; 
 }
