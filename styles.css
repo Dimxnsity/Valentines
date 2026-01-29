@@ -4,10 +4,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: #000000;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
-    font-family: 'Arial', sans-serif; 
-    flex-direction: column;
+    
   }
   
   .container {
@@ -15,10 +15,8 @@ body {
   }
   
   h1 {
-    background-image: url("https://images.unsplash.com/photo-1570751485906-b0bbe415db74?q=80&w=2016&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    font-size: 2.5em; 
+    color: #000000;
   }
   
   .buttons {
